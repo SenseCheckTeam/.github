@@ -1,34 +1,41 @@
+# 🌐 SenseCheck Team
 
-# Sense Check
+Welcome to the official GitHub organization of **SenseCheck Team** — a collaborative team behind *SenseCheck*, an AI-powered early diagnosis application for sensory-related illnesses.
 
-Welcome to the **Sense Check** project repository!  
+Our mission is to empower communities to identify early symptoms of sensory disorders independently, quickly, and accurately using accessible technology.
 
-## About Sense Check  
-Sense Check is an innovative project designed to help users quickly verify the reliability, accuracy, or logical consistency of information, data, or decisions. It leverages intelligent algorithms and user-friendly interfaces to provide timely insights and validation in various contexts.
+## 📌 Projects
 
-## Features  
-- **Automated accuracy verification** of input data or statements  
-- **Context-aware suggestions** to improve data integrity  
-- **User-friendly dashboard** for monitoring and review  
-- Multi-platform support with intuitive design
+We maintain several repositories to support our mission:
 
-## Why Sense Check?  
-In today’s data-driven world, information overload and misinformation pose significant challenges. Sense Check aims to empower individuals and organizations to make confident, informed decisions by providing a reliable “sense check” mechanism.
+| Repository | Description |
+|------------|-------------|
+| [sensecheck-fe](https://github.com/SenseCheckTeam/sensecheck-fe) | Frontend application built with React, Vite, and Tailwind CSS |
+| [sensecheck-be](https://github.com/SenseCheckTeam/sensecheck-be) | Backend API built with Node.js and Express |
+| [sensecheck-ml](https://github.com/SenseCheckTeam/sensecheck-ml) | AI/ML model for diagnosing sensory-related conditions |
 
-## Getting Started  
-To try out Sense Check or contribute, check the repository for setup instructions, usage examples, and contribution guidelines.
+## 🧠 What We Do
 
-## Installation  
-```bash
-# Example placeholder, adjust based on your project
-git clone https://github.com/yourusername/sense-check.git
-cd sense-check
-npm install
-npm start
-```
+- Build open-source and accessible health tech
+- Combine AI with responsive frontend and secure backend
+- Create educational content about the five human senses
+- Focus on user-first design for both public and admin users
 
-## Contributing  
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+## 👥 Team Values
 
-## Contact  
-For any questions or feedback, reach out via [your email or contact info].
+- 💡 Innovation with empathy  
+- 📈 Continuous improvement  
+- 🤝 Open collaboration  
+- 🔐 Privacy-first mindset  
+
+## 📬 Contact Us
+
+Want to collaborate or learn more?
+
+- 📧 Email: sensecheck@gmail.com  
+- 🌍 Website: [Coming Soon]  
+- 📣 Follow us on [LinkedIn](https://linkedin.com) or [Twitter](https://twitter.com)
+
+---
+
+> This organization is part of a capstone project and maintained by a group of passionate developers and designers.
